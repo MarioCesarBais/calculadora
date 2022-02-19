@@ -31,3 +31,12 @@
 button.operation:active {
     background-color: #fa8231cc;
 }
+
+.button {
+        border: 1px solid black;
+}
+
+.button:hover {
+    background-color: aqua;
+    color: black;
+}
